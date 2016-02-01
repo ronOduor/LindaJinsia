@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/scss/ionic.app.scss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/controllers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/routes.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/services.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/contacts.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/definitions.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/gbvforms.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/getInformation.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/getLocations.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/giveLocation.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/steps.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/tabsController.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/victimDetails.html" charset="UTF-8" />
+  </component>
+</project>

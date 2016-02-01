@@ -1,0 +1,26 @@
+<ion-view title="Victim Details">
+    <ion-content overflow-scroll="true" padding="true" class="has-header">
+        <div>
+            <p>Fill in the victim's details below...</p>
+        </div>
+        <form class="list" validate>
+            <label class="item item-input" name="vic_name">
+                <span class="input-label">Name</span>
+                <input type="text" placeholder="Enter Name" required>
+            </label>
+            <label class="item item-select" name="vic_gender">
+                <span class="input-label">Gender</span>
+                <select required>
+                    <option>Male</option>
+                    <option>Female</option>
+                </select>
+            </label>
+            <label class="item item-input" name="vic_age">
+                <span class="input-label">Age</span>
+                <input type="number" placeholder="10" required>
+            </label>
+
+        </form>
+      <a href="#/page1/case_type" class="button button-positive button-block  icon-right ion-android-arrow-forward" ">Next</a>
+    </ion-content>
+</ion-view>

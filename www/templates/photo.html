@@ -1,0 +1,12 @@
+<ion-view title="Photo">
+    <ion-content overflow-scroll="true" padding="true" class="has-header">
+        <div>
+            <p>Upload any images related to the case below...</p>
+        </div>
+        <div>
+            <input class="android-alert" type="file" file-input="files" multiple onchange="angular.element (this).scope().fileschanged(this);upload();">
+            <button ng-click="upload()">Upload</button>
+        </div>
+        <a href="#/page1/give_location" class="button button-positive button-block  icon-right ion-android-arrow-forward">Next</a>
+    </ion-content>
+</ion-view>
